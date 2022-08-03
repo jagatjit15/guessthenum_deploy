@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess-The-Number</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+    <h2> <span>"Guess the number"</span> is a fun game a random number generate by the system between 1 to 100 if you
+        guess correct
+        you will be get score, if guess wrong your score will be deducted</h2>
+    <p id="num_dis">THE NUMBER IS</p>
+    <div id="display">
+        <h1 id="screen">
+            <!-- system generated number  -->
+        </h1>
+    </div>
+    <section id="container">
+        <div id="play_side">
+            <div id="input_field">
+                <input type="tel" placeholder="Guess The Number" reqquired id="user_input">
+            </div>
+            <div id="submit_btn">
+                <button id="submit">Show</button>
+            </div>
+        </div>
+        <div id="score_side">
+            <div id="score_board">
+                <p>Score</p>
+                <h2 id="score">000</h2>
+            </div>
+            <div id="results">
+                <div id="win">
+                    <p>WIN</p>
+                    <p id="w_c">0</p>
+                </div>
+                <div id="loss">
+                    <p>LOSS</p>
+                    <p id="l_c">0</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="message">
+        <h3 id="msg_box">
+        </h3>
+    </div>
+</body>
+<script src="./index.js"></script>
+
+</html>
