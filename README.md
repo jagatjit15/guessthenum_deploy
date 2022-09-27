@@ -11,3 +11,19 @@ This is a funny number game project built with javascript, HTML, and CSS. Player
 ## Screenshots
 
 
+![gsn1](https://user-images.githubusercontent.com/82428558/192552144-cf84e8c7-7f1a-49a0-a004-fb431ec20d7f.jpg)
+<br>
+<br>
+<br>
+<br>
+![gsn2](https://user-images.githubusercontent.com/82428558/192552154-eea92a6a-bc5c-49d8-98ab-07117f3e79bd.jpg)
+<br>
+<br>
+<br>
+<br>
+![gsn3](https://user-images.githubusercontent.com/82428558/192552168-54d3d67f-74e1-4f97-8f53-67773bd93992.jpg)
+<br>
+<br>
+<br>
+<br>
+![gsn5](https://user-images.githubusercontent.com/82428558/192552178-92cc82ee-1296-4967-b00c-c39ca4642aff.jpg)
